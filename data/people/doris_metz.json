@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_doris_metz",
+  "name": "Doris Metz",
+  "external_ids": {
+    "wikidata": "Q23016474",
+    "imdb": "nm1110142"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959
+}

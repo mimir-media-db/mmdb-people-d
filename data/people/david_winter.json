@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_david_winter",
+  "name": "David Winter",
+  "external_ids": {
+    "wikidata": "Q106722",
+    "imdb": "nm0935705"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1979
+}

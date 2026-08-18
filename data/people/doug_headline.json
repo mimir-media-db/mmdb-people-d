@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_doug_headline",
+  "name": "Doug Headline",
+  "external_ids": {
+    "wikidata": "Q3037936",
+    "imdb": "nm0372192"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}

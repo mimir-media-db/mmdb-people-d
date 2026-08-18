@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dewey_nicks",
+  "name": "Dewey Nicks",
+  "external_ids": {
+    "wikidata": "Q5268203",
+    "imdb": "nm0630083"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}

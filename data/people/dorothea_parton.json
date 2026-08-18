@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dorothea_parton",
+  "name": "Dorothea Parton",
+  "external_ids": {
+    "wikidata": "Q1246257",
+    "imdb": "nm0664011"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1948
+}

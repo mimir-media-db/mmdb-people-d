@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dexter_young",
+  "name": "Dexter Young",
+  "external_ids": {
+    "wikidata": "Q5268468",
+    "imdb": "nm1320482"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1975
+}

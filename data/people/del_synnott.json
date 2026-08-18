@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_del_synnott",
+  "name": "Del Synnott",
+  "external_ids": {
+    "wikidata": "Q5253002",
+    "imdb": "nm0843435"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}

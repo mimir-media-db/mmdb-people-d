@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_derek_luke",
+  "name": "Derek Luke",
+  "external_ids": {
+    "wikidata": "Q648897",
+    "imdb": "nm1035682"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1974
+}

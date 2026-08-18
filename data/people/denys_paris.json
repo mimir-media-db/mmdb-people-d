@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_denys_paris",
+  "name": "Denys Paris",
+  "external_ids": {
+    "wikidata": "Q3023413",
+    "imdb": "nm0661547"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955
+}
