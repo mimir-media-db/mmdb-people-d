@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dildar",
+  "name": "Dildar",
+  "external_ids": {
+    "wikidata": "Q18987612",
+    "imdb": "nm2634803"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1945,
+  "death_year": 2003
+}
