@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dan_john_miller",
+  "name": "Dan John Miller",
+  "external_ids": {
+    "wikidata": "Q1159089",
+    "imdb": "nm1677751"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1999
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_dave_rock",
+  "name": "Dave Rock",
+  "external_ids": {
+    "wikidata": "Q113427496",
+    "imdb": "nm1142553"
+  },
+  "last_updated": "2026-08-18"
+}
