@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dave_annable",
+  "name": "Dave Annable",
+  "external_ids": {
+    "wikidata": "Q442313",
+    "imdb": "nm1616349"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1979
+}

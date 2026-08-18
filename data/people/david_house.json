@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_david_house",
+  "name": "David House",
+  "external_ids": {
+    "wikidata": "Q112614180",
+    "imdb": "nm1450145"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958,
+  "death_year": 2016
+}

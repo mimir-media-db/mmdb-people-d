@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_david_prowse",
+  "name": "David Prowse",
+  "external_ids": {
+    "wikidata": "Q128379",
+    "imdb": "nm0001190"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1935,
+  "death_year": 2020
+}

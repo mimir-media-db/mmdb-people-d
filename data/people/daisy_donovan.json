@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_daisy_donovan",
+  "name": "Daisy Donovan",
+  "external_ids": {
+    "wikidata": "Q459800",
+    "imdb": "nm0232963"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1973
+}

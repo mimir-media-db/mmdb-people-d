@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dan_zahle",
+  "name": "Dan Zahle",
+  "external_ids": {
+    "wikidata": "Q12307120",
+    "imdb": "nm0951969"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}
