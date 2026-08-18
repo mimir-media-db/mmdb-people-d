@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_danny_masterson",
+  "name": "Danny Masterson",
+  "external_ids": {
+    "wikidata": "Q374220",
+    "imdb": "nm0005194"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1976
+}

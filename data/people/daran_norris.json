@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_daran_norris",
+  "name": "Daran Norris",
+  "external_ids": {
+    "wikidata": "Q723021",
+    "imdb": "nm0358460"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}

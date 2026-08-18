@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_demo_morselli",
+  "name": "Demo Morselli",
+  "external_ids": {
+    "wikidata": "Q3705319",
+    "imdb": "nm1465046"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}

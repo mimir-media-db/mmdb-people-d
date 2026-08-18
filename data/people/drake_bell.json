@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_drake_bell",
+  "name": "Drake Bell",
+  "external_ids": {
+    "wikidata": "Q261812",
+    "imdb": "nm0068166"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1986
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_damon_wayans",
+  "name": "Damon Wayans",
+  "external_ids": {
+    "wikidata": "Q382420",
+    "imdb": "nm0001834"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

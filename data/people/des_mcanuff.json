@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_des_mcanuff",
+  "name": "Des McAnuff",
+  "external_ids": {
+    "wikidata": "Q3705901",
+    "imdb": "nm0005197"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}

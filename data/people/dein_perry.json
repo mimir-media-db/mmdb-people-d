@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dein_perry",
+  "name": "Dein Perry",
+  "external_ids": {
+    "wikidata": "Q5252449",
+    "imdb": "nm0675032"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1899
+}

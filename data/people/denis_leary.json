@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_denis_leary",
+  "name": "Denis Leary",
+  "external_ids": {
+    "wikidata": "Q310283",
+    "imdb": "nm0001459"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_david_cronenberg",
+  "name": "David Cronenberg",
+  "external_ids": {
+    "wikidata": "Q55422",
+    "imdb": "nm0000343"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1943
+}

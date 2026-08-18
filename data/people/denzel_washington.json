@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_denzel_washington",
+  "name": "Denzel Washington",
+  "external_ids": {
+    "wikidata": "Q42101",
+    "imdb": "nm0000243"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1954
+}
