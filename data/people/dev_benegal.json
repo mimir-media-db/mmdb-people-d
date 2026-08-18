@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dev_benegal",
+  "name": "Dev Benegal",
+  "external_ids": {
+    "wikidata": "Q3025361",
+    "imdb": "nm0070865"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1960,
+  "death_year": null
+}

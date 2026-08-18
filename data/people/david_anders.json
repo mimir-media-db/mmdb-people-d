@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_david_anders",
+  "name": "David Anders",
+  "external_ids": {
+    "wikidata": "Q282778",
+    "imdb": "nm1044403"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1981,
+  "death_year": null
+}

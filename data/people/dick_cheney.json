@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dick_cheney",
+  "name": "Dick Cheney",
+  "external_ids": {
+    "wikidata": "Q48259",
+    "imdb": "nm0155515"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1941,
+  "death_year": 2025
+}

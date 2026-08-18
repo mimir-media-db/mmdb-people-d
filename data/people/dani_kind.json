@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dani_kind",
+  "name": "Dani Kind",
+  "external_ids": {
+    "wikidata": "Q3015002",
+    "imdb": "nm1595023"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1980,
+  "death_year": null
+}

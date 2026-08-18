@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dan_fogler",
+  "name": "Dan Fogler",
+  "external_ids": {
+    "wikidata": "Q374263",
+    "imdb": "nm0283945"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1976,
+  "death_year": null
+}

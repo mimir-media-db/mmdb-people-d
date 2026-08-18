@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dario_bandiera",
+  "name": "Dario Bandiera",
+  "external_ids": {
+    "wikidata": "Q3702561",
+    "imdb": "nm1135247"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1970,
+  "death_year": null
+}

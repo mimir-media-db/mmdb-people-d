@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_daniel_bonjour",
+  "name": "Daniel Bonjour",
+  "external_ids": {
+    "wikidata": "Q56696476",
+    "imdb": "nm2614264"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1981,
+  "death_year": null
+}

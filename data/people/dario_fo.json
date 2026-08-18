@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dario_fo",
+  "name": "Dario Fo",
+  "external_ids": {
+    "wikidata": "Q765",
+    "imdb": "nm0283700"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1926,
+  "death_year": 2016
+}

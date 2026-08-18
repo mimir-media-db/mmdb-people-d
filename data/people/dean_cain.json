@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dean_cain",
+  "name": "Dean Cain",
+  "external_ids": {
+    "wikidata": "Q313788",
+    "imdb": "nm0001002"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1966,
+  "death_year": null
+}

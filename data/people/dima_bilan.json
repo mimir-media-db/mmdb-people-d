@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dima_bilan",
+  "name": "Dima Bilan",
+  "external_ids": {
+    "wikidata": "Q42904",
+    "imdb": "nm1855744"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1981,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_david_james",
+  "name": "David James",
+  "external_ids": {
+    "wikidata": "Q10598",
+    "imdb": "nm1668257"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1970,
+  "death_year": null
+}

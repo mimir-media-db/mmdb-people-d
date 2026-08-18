@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_david_harbour",
+  "name": "David Harbour",
+  "external_ids": {
+    "wikidata": "Q391359",
+    "imdb": "nm1092086"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1975,
+  "death_year": null
+}

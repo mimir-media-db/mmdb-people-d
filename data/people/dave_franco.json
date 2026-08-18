@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dave_franco",
+  "name": "Dave Franco",
+  "external_ids": {
+    "wikidata": "Q383930",
+    "imdb": "nm2002649"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1985,
+  "death_year": null
+}

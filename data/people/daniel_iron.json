@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_daniel_iron",
+  "name": "Daniel Iron",
+  "external_ids": {
+    "wikidata": "Q5217579",
+    "imdb": "nm0410065"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1901,
+  "death_year": null
+}

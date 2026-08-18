@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dennis_law",
+  "name": "Dennis Law",
+  "external_ids": {
+    "wikidata": "Q5258636",
+    "imdb": "nm0492315"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1963,
+  "death_year": null
+}

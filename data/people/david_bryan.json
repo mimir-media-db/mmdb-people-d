@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_david_bryan",
+  "name": "David Bryan",
+  "external_ids": {
+    "wikidata": "Q310098",
+    "imdb": "nm0116924"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1962,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dexter_fletcher",
+  "name": "Dexter Fletcher",
+  "external_ids": {
+    "wikidata": "Q388557",
+    "imdb": "nm0002077"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1966,
+  "death_year": null
+}

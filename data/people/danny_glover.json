@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_danny_glover",
+  "name": "Danny Glover",
+  "external_ids": {
+    "wikidata": "Q192165",
+    "imdb": "nm0000418"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1946,
+  "death_year": null
+}

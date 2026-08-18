@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dong_jie",
+  "name": "Dong Jie",
+  "external_ids": {
+    "wikidata": "Q987933",
+    "imdb": "nm1089540"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1980,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_daniel_roche",
+  "name": "Daniel Roche",
+  "external_ids": {
+    "wikidata": "Q4144677",
+    "imdb": "nm2207998"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1999,
+  "death_year": null
+}

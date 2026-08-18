@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_david_copperfield",
+  "name": "David Copperfield",
+  "external_ids": {
+    "wikidata": "Q139637",
+    "imdb": "nm0004518"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1956,
+  "death_year": null
+}

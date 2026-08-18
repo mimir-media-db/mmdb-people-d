@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_daniel_london",
+  "name": "Daniel London",
+  "external_ids": {
+    "wikidata": "Q3701661",
+    "imdb": "nm0518687"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1973,
+  "death_year": null
+}
