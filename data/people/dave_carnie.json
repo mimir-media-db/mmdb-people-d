@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dave_carnie",
+  "name": "Dave Carnie",
+  "external_ids": {
+    "wikidata": "Q5228489",
+    "imdb": "nm1328615"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

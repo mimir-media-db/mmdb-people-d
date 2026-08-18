@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dr_john",
+  "name": "Dr. John",
+  "external_ids": {
+    "wikidata": "Q511074",
+    "imdb": "nm0236566"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1941,
+  "death_year": 2019
+}

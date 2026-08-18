@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_danny_mann",
+  "name": "Danny Mann",
+  "external_ids": {
+    "wikidata": "Q3015280",
+    "imdb": "nm0542706"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dayton_rains",
+  "name": "Dayton Rains",
+  "external_ids": {
+    "wikidata": "Q4973929",
+    "imdb": "nm0707047"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}

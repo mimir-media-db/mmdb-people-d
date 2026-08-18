@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dieter_bach",
+  "name": "Dieter Bach",
+  "external_ids": {
+    "wikidata": "Q107291",
+    "imdb": "nm0045303"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}
