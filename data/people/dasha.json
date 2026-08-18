@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dasha",
+  "name": "Dasha",
+  "external_ids": {
+    "wikidata": "Q3016743",
+    "imdb": "nm0201979"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1976
+}
