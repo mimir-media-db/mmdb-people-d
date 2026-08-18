@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dolly_buster",
+  "name": "Dolly Buster",
+  "external_ids": {
+    "wikidata": "Q77589",
+    "imdb": "nm0124561"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

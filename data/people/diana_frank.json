@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_diana_frank",
+  "name": "Diana Frank",
+  "external_ids": {
+    "wikidata": "Q97568",
+    "imdb": "nm0290903"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}
