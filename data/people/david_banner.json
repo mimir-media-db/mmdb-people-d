@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_david_banner",
+  "name": "David Banner",
+  "external_ids": {
+    "wikidata": "Q708506",
+    "imdb": "nm1755886"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1974,
+  "death_year": null
+}

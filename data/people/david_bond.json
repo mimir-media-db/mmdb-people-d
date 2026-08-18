@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_david_bond",
+  "name": "David Bond",
+  "external_ids": {
+    "wikidata": "Q114012292",
+    "imdb": "nm1064207"
+  },
+  "last_updated": "2026-08-17",
+  "death_year": null
+}

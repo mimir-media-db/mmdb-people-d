@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_daniel_pennac",
+  "name": "Daniel Pennac",
+  "external_ids": {
+    "wikidata": "Q332689",
+    "imdb": "nm0672032"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1944,
+  "death_year": null
+}

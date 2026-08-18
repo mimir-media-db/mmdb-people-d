@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dave_davies",
+  "name": "Dave Davies",
+  "external_ids": {
+    "wikidata": "Q364890",
+    "imdb": "nm0203661"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1947,
+  "death_year": null
+}

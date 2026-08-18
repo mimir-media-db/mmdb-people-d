@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dave_sheridan",
+  "name": "Dave Sheridan",
+  "external_ids": {
+    "wikidata": "Q936507",
+    "imdb": "nm0792156"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1969,
+  "death_year": null
+}

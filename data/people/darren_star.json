@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_darren_star",
+  "name": "Darren Star",
+  "external_ids": {
+    "wikidata": "Q452063",
+    "imdb": "nm0823015"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1961,
+  "death_year": null
+}

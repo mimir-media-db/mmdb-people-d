@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dave_legeno",
+  "name": "Dave Legeno",
+  "external_ids": {
+    "wikidata": "Q544038",
+    "imdb": "nm0499270"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1963,
+  "death_year": 2014
+}
