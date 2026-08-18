@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dustin_hoffman",
+  "name": "Dustin Hoffman",
+  "external_ids": {
+    "wikidata": "Q42930",
+    "imdb": "nm0000163"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1937,
+  "death_year": null
+}

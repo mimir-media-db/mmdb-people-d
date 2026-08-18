@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_donnie_wahlberg",
+  "name": "Donnie Wahlberg",
+  "external_ids": {
+    "wikidata": "Q313470",
+    "imdb": "nm0005531"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1969,
+  "death_year": null
+}
