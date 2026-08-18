@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dax_shepard",
+  "name": "Dax Shepard",
+  "external_ids": {
+    "wikidata": "Q462354",
+    "imdb": "nm1009277"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1975,
+  "death_year": null
+}

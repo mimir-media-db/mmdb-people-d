@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_deepak_chopra",
+  "name": "Deepak Chopra",
+  "external_ids": {
+    "wikidata": "Q318506",
+    "imdb": "nm0159149"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1946,
+  "death_year": null
+}

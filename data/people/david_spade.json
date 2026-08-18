@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_david_spade",
+  "name": "David Spade",
+  "external_ids": {
+    "wikidata": "Q298658",
+    "imdb": "nm0005450"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1964,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_davis_doi",
+  "name": "Davis Doi",
+  "external_ids": {
+    "wikidata": "Q3019163",
+    "imdb": "nm0230669"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1954,
+  "death_year": null
+}

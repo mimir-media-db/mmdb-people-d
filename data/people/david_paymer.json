@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_david_paymer",
+  "name": "David Paymer",
+  "external_ids": {
+    "wikidata": "Q373989",
+    "imdb": "nm0001601"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1954,
+  "death_year": null
+}

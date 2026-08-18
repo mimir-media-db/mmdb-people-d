@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_david_morrissey",
+  "name": "David Morrissey",
+  "external_ids": {
+    "wikidata": "Q725686",
+    "imdb": "nm0607375"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1964,
+  "death_year": null
+}
