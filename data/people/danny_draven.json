@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_danny_draven",
+  "name": "Danny Draven",
+  "external_ids": {
+    "wikidata": "Q1164563",
+    "imdb": "nm0237236"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_daniel_radcliffe",
+  "name": "Daniel Radcliffe",
+  "external_ids": {
+    "wikidata": "Q38119",
+    "imdb": "nm0705356"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1989
+}

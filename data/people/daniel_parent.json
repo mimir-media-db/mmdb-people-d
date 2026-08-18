@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_daniel_parent",
+  "name": "Daniel Parent",
+  "external_ids": {
+    "wikidata": "Q52188136",
+    "imdb": "nm1051137"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1973
+}

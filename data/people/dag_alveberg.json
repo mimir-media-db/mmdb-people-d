@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dag_alveberg",
+  "name": "Dag Alveberg",
+  "external_ids": {
+    "wikidata": "Q11964456",
+    "imdb": "nm0023367"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951,
+  "death_year": 2010
+}

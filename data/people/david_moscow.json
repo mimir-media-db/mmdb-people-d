@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_david_moscow",
+  "name": "David Moscow",
+  "external_ids": {
+    "wikidata": "Q1175762",
+    "imdb": "nm0608378"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1974
+}
