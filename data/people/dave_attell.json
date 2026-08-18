@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dave_attell",
+  "name": "Dave Attell",
+  "external_ids": {
+    "wikidata": "Q5228265",
+    "imdb": "nm0040995"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

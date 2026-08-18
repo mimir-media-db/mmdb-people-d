@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dorothy_black",
+  "name": "Dorothy Black",
+  "external_ids": {
+    "wikidata": "Q52160487",
+    "imdb": "nm1648563"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}

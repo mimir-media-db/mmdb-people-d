@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_diana_quick",
+  "name": "Diana Quick",
+  "external_ids": {
+    "wikidata": "Q1150442",
+    "imdb": "nm0703438"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946
+}

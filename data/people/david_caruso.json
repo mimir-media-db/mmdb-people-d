@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_david_caruso",
+  "name": "David Caruso",
+  "external_ids": {
+    "wikidata": "Q294901",
+    "imdb": "nm0000325"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}
