@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_david_ray",
+  "name": "David Ray",
+  "external_ids": {
+    "wikidata": "Q5238923",
+    "imdb": "nm0712801"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1968
+}

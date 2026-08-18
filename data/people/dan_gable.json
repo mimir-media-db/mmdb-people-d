@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dan_gable",
+  "name": "Dan Gable",
+  "external_ids": {
+    "wikidata": "Q238551",
+    "imdb": "nm0300086"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1948
+}

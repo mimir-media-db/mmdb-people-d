@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_douglas_macarthur",
+  "name": "Douglas MacArthur",
+  "external_ids": {
+    "wikidata": "Q127417",
+    "imdb": "nm0531274"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1880,
+  "death_year": 1964
+}

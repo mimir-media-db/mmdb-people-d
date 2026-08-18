@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_doru_ana",
+  "name": "Doru Ana",
+  "external_ids": {
+    "wikidata": "Q28657901",
+    "imdb": "nm0025557"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1954,
+  "death_year": 2022
+}

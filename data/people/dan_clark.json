@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dan_clark",
+  "name": "Dan Clark",
+  "external_ids": {
+    "wikidata": "Q901493",
+    "imdb": "nm1144458"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1976
+}

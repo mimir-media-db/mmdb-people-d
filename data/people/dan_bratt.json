@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dan_bratt",
+  "name": "Dan Bratt",
+  "external_ids": {
+    "wikidata": "Q5585228",
+    "imdb": "nm0105559"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}
