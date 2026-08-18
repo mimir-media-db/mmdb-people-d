@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_debra_monk",
+  "name": "Debra Monk",
+  "external_ids": {
+    "wikidata": "Q288404",
+    "imdb": "nm0598213"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1949
+}

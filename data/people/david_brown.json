@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_david_brown",
+  "name": "David Brown",
+  "external_ids": {
+    "wikidata": "Q369175",
+    "imdb": "nm0113360"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1916,
+  "death_year": 2010
+}

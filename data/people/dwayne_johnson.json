@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dwayne_johnson",
+  "name": "Dwayne Johnson",
+  "external_ids": {
+    "wikidata": "Q10738",
+    "imdb": "nm0425005"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

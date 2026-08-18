@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dave_klein",
+  "name": "Dave Klein",
+  "external_ids": {
+    "wikidata": "Q4223223",
+    "imdb": "nm0003140"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

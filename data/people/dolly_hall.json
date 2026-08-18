@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dolly_hall",
+  "name": "Dolly Hall",
+  "external_ids": {
+    "wikidata": "Q5289334",
+    "imdb": "nm0355502"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

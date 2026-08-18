@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dolores_chaplin",
+  "name": "Dolores Chaplin",
+  "external_ids": {
+    "wikidata": "Q3034272",
+    "imdb": "nm0152239"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1976
+}

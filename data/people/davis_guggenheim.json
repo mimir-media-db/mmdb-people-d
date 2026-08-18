@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_davis_guggenheim",
+  "name": "Davis Guggenheim",
+  "external_ids": {
+    "wikidata": "Q721219",
+    "imdb": "nm0346550"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

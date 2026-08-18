@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dawn_french",
+  "name": "Dawn French",
+  "external_ids": {
+    "wikidata": "Q236309",
+    "imdb": "nm0294067"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957
+}

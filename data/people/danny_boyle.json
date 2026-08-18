@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_danny_boyle",
+  "name": "Danny Boyle",
+  "external_ids": {
+    "wikidata": "Q134867",
+    "imdb": "nm0000965"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

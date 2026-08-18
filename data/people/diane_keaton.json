@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_diane_keaton",
+  "name": "Diane Keaton",
+  "external_ids": {
+    "wikidata": "Q102642",
+    "imdb": "nm0000473"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946,
+  "death_year": 2025
+}

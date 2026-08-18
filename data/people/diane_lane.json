@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_diane_lane",
+  "name": "Diane Lane",
+  "external_ids": {
+    "wikidata": "Q255070",
+    "imdb": "nm0000178"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

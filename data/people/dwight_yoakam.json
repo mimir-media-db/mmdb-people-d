@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dwight_yoakam",
+  "name": "Dwight Yoakam",
+  "external_ids": {
+    "wikidata": "Q713099",
+    "imdb": "nm0948267"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

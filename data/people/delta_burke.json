@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_delta_burke",
+  "name": "Delta Burke",
+  "external_ids": {
+    "wikidata": "Q292453",
+    "imdb": "nm0004785"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

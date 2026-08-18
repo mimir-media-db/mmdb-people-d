@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dave_power",
+  "name": "Dave Power",
+  "external_ids": {
+    "wikidata": "Q174969"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1928,
+  "death_year": 2014
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_david_percy",
+  "name": "David Percy",
+  "external_ids": {
+    "wikidata": "Q5792318",
+    "imdb": "nm3142198"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1999
+}
