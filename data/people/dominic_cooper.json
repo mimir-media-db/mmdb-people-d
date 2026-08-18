@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dominic_cooper",
+  "name": "Dominic Cooper",
+  "external_ids": {
+    "wikidata": "Q317761",
+    "imdb": "nm1002641"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}

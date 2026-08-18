@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_david_tyler",
+  "name": "David Tyler",
+  "external_ids": {
+    "wikidata": "Q16196306",
+    "imdb": "nm2519977"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dave_england",
+  "name": "Dave England",
+  "external_ids": {
+    "wikidata": "Q934565",
+    "imdb": "nm0257424"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

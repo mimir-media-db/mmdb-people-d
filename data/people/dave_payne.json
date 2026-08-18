@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dave_payne",
+  "name": "Dave Payne",
+  "external_ids": {
+    "wikidata": "Q918487",
+    "imdb": "nm0668292"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1999
+}

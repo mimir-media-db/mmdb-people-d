@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dan_bigras",
+  "name": "Dan Bigras",
+  "external_ids": {
+    "wikidata": "Q3013022",
+    "imdb": "nm0081946"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957
+}

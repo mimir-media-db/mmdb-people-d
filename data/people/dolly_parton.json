@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dolly_parton",
+  "name": "Dolly Parton",
+  "external_ids": {
+    "wikidata": "Q180453",
+    "imdb": "nm0000573"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dane_cook",
+  "name": "Dane Cook",
+  "external_ids": {
+    "wikidata": "Q359969",
+    "imdb": "nm0176981"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_daisy_bates",
+  "name": "Daisy Bates",
+  "external_ids": {
+    "wikidata": "Q4081260",
+    "imdb": "nm0060888"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1974
+}

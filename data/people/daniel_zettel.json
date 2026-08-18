@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_daniel_zettel",
+  "name": "Daniel Zettel",
+  "external_ids": {
+    "wikidata": "Q10264013",
+    "imdb": "nm1368774"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1984
+}
