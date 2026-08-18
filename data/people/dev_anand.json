@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dev_anand",
+  "name": "Dev Anand",
+  "external_ids": {
+    "wikidata": "Q320115",
+    "imdb": "nm0007147"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1923,
+  "death_year": 2011
+}

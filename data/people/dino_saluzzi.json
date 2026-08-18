@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dino_saluzzi",
+  "name": "Dino Saluzzi",
+  "external_ids": {
+    "wikidata": "Q1226650",
+    "imdb": "nm1041425"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1935
+}

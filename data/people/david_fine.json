@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_david_fine",
+  "name": "David Fine",
+  "external_ids": {
+    "wikidata": "Q3017888",
+    "imdb": "nm0006718"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955
+}

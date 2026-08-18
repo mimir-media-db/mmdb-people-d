@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_david_ayer",
+  "name": "David Ayer",
+  "external_ids": {
+    "wikidata": "Q1091339",
+    "imdb": "nm0043742"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1968
+}

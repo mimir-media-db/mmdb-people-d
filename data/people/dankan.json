@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dankan",
+  "name": "Dankan",
+  "external_ids": {
+    "wikidata": "Q3148377",
+    "imdb": "nm0241881"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959
+}

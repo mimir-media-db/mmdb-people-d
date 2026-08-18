@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_danny_strong",
+  "name": "Danny Strong",
+  "external_ids": {
+    "wikidata": "Q784009",
+    "imdb": "nm0834960"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1974
+}

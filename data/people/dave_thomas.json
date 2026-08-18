@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dave_thomas",
+  "name": "Dave Thomas",
+  "external_ids": {
+    "wikidata": "Q2627090",
+    "imdb": "nm0858686"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1949
+}

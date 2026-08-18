@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dave_gibbons",
+  "name": "Dave Gibbons",
+  "external_ids": {
+    "wikidata": "Q445765",
+    "imdb": "nm1733301"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1949
+}
