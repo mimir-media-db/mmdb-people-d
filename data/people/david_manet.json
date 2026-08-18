@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_david_manet",
+  "name": "David Manet",
+  "external_ids": {
+    "wikidata": "Q3018354",
+    "imdb": "nm3724623"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1973
+}

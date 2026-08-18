@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_denis_parent",
+  "name": "Denis Parent",
+  "external_ids": {
+    "wikidata": "Q3022852",
+    "imdb": "nm0661272"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1954
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_diana_rigg",
+  "name": "Diana Rigg",
+  "external_ids": {
+    "wikidata": "Q232876",
+    "imdb": "nm0001671"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1938,
+  "death_year": 2020
+}

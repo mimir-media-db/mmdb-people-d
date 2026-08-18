@@ -1,9 +1,10 @@
 {
   "schema_version": 1,
-  "id": "p_david_blanco",
-  "name": "David Blanco",
+  "id": "p_david_maj",
+  "name": "David Máj",
   "external_ids": {
-    "wikidata": "Q1173765"
+    "wikidata": "Q33438653",
+    "imdb": "nm0538012"
   },
   "last_updated": "2026-08-18",
   "birth_year": 1975
