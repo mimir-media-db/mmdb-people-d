@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_david_essex",
+  "name": "David Essex",
+  "external_ids": {
+    "wikidata": "Q951726",
+    "imdb": "nm0261390"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1947
+}
