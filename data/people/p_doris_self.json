@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_doris_self",
+  "name": "Doris Self",
+  "external_ids": {
+    "wikidata": "Q5297987",
+    "imdb": "nm2512508"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1925,
+  "death_year": 2006
+}
