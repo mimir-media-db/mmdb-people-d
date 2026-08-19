@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dawie_ackermann",
+  "name": "Dawie Ackermann",
+  "external_ids": {
+    "wikidata": "Q3019217"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1930,
+  "death_year": 1969
+}
