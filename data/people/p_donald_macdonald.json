@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_donald_macdonald",
+  "name": "Donald MacDonald",
+  "external_ids": {
+    "wikidata": "Q3036049",
+    "imdb": "nm0531691"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1886,
+  "death_year": 1972
+}

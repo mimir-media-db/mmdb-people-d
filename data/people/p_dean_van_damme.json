@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dean_van_damme",
+  "name": "Dean Van Damme",
+  "external_ids": {
+    "wikidata": "Q115025018",
+    "imdb": "nm4897468"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}

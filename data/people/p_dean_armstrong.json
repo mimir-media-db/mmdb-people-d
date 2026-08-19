@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dean_armstrong",
+  "name": "Dean Armstrong",
+  "external_ids": {
+    "wikidata": "Q902542",
+    "imdb": "nm0035676"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1973
+}

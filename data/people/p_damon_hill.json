@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_damon_hill",
+  "name": "Damon Hill",
+  "external_ids": {
+    "wikidata": "Q10505",
+    "imdb": "nm1411416"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1960
+}

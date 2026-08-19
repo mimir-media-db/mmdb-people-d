@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_diesel_washington",
+  "name": "Diesel Washington",
+  "external_ids": {
+    "wikidata": "Q247488",
+    "imdb": "nm2486193"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}
