@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_david_france",
+  "name": "David France",
+  "external_ids": {
+    "wikidata": "Q5233788",
+    "imdb": "nm0289800"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1959
+}
