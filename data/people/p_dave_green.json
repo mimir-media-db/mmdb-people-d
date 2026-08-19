@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dave_green",
+  "name": "Dave Green",
+  "external_ids": {
+    "wikidata": "Q19720623",
+    "imdb": "nm1757777"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_daniel_armstrong",
+  "name": "Daniel Armstrong",
+  "external_ids": {
+    "wikidata": "Q21572777",
+    "imdb": "nm2730700"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1970
+}

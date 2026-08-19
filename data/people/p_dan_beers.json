@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_dan_beers",
+  "name": "Dan Beers",
+  "external_ids": {
+    "wikidata": "Q113675821",
+    "imdb": "nm0066534"
+  },
+  "last_updated": "2026-08-19"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dennis_alink",
+  "name": "Dennis Alink",
+  "external_ids": {
+    "wikidata": "Q19587551",
+    "imdb": "nm2836660"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1989
+}
