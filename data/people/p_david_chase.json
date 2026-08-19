@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_david_chase",
+  "name": "David Chase",
+  "external_ids": {
+    "wikidata": "Q381982",
+    "imdb": "nm0153740"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1945
+}

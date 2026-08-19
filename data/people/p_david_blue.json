@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_david_blue",
+  "name": "David Blue",
+  "external_ids": {
+    "wikidata": "Q928784",
+    "imdb": "nm2437382"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}

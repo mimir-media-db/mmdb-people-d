@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_david_lambert",
+  "name": "David Lambert",
+  "external_ids": {
+    "wikidata": "Q3018251",
+    "imdb": "nm3460363"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1974
+}
