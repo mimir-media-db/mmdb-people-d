@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_david_vega",
+  "name": "David Vega",
+  "external_ids": {
+    "wikidata": "Q5800428",
+    "imdb": "nm2438386"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1900
+}

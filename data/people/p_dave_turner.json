@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dave_turner",
+  "name": "Dave Turner",
+  "external_ids": {
+    "wikidata": "Q117818713",
+    "imdb": "nm8821923"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}
