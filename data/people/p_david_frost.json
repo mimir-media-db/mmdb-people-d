@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_david_frost",
+  "name": "David Frost",
+  "external_ids": {
+    "wikidata": "Q380865",
+    "imdb": "nm0296484"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1939,
+  "death_year": 2013
+}

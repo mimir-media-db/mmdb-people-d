@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_diana_doll",
+  "name": "Diana Doll",
+  "external_ids": {
+    "wikidata": "Q242227",
+    "imdb": "nm1448671"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}
