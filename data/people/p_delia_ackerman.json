@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_delia_ackerman",
+  "name": "Delia Ackerman",
+  "external_ids": {
+    "wikidata": "Q67205887",
+    "imdb": "nm2197430"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1960
+}

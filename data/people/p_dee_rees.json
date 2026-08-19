@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dee_rees",
+  "name": "Dee Rees",
+  "external_ids": {
+    "wikidata": "Q5249943",
+    "imdb": "nm2011696"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1977
+}
