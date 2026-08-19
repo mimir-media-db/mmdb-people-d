@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_david_presley",
+  "name": "David Presley",
+  "external_ids": {
+    "wikidata": "Q108072317",
+    "imdb": "nm0696171"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969
+}

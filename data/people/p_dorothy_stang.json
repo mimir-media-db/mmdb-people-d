@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dorothy_stang",
+  "name": "Dorothy Stang",
+  "external_ids": {
+    "wikidata": "Q465318",
+    "imdb": "nm3186436"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1931,
+  "death_year": 2005
+}

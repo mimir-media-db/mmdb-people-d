@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dev_patel",
+  "name": "Dev Patel",
+  "external_ids": {
+    "wikidata": "Q245075",
+    "imdb": "nm2353862"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1990
+}

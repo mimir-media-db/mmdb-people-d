@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dan_nielsen",
+  "name": "Dan Nielsen",
+  "external_ids": {
+    "wikidata": "Q41236307",
+    "imdb": "nm1853724"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1956
+}
