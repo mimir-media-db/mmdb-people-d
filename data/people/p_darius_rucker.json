@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_darius_rucker",
+  "name": "Darius Rucker",
+  "external_ids": {
+    "wikidata": "Q445405",
+    "imdb": "nm0748519"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1966
+}
