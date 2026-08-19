@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_darren",
+  "name": "Darren",
+  "external_ids": {
+    "wikidata": "Q15926283",
+    "imdb": "nm2218406"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}
