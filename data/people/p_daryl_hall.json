@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_daryl_hall",
+  "name": "Daryl Hall",
+  "external_ids": {
+    "wikidata": "Q1166988",
+    "imdb": "nm0355461"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1946
+}

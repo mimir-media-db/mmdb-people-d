@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dana_fox",
+  "name": "Dana Fox",
+  "external_ids": {
+    "wikidata": "Q5214724",
+    "imdb": "nm1401416"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}
