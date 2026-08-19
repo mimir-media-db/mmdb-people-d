@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_daniel_webber",
+  "name": "Daniel Webber",
+  "external_ids": {
+    "wikidata": "Q23928938",
+    "imdb": "nm3206486"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1988
+}
