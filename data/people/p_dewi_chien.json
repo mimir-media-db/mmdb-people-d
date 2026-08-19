@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dewi_chien",
+  "name": "Dewi Chien",
+  "external_ids": {
+    "wikidata": "Q16903997",
+    "imdb": "nm6010009"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1992
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_devin_druid",
+  "name": "Devin Druid",
+  "external_ids": {
+    "wikidata": "Q19957608",
+    "imdb": "nm4917921"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1998
+}
