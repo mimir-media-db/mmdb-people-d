@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_donovan",
+  "name": "Donovan",
+  "external_ids": {
+    "wikidata": "Q317427",
+    "imdb": "nm0232942"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1946
+}
