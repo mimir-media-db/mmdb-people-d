@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dionne_warwick",
+  "name": "Dionne Warwick",
+  "external_ids": {
+    "wikidata": "Q234695",
+    "imdb": "nm0005536"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1940
+}
