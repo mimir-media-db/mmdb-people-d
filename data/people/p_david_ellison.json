@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_david_ellison",
+  "name": "David Ellison",
+  "external_ids": {
+    "wikidata": "Q5233363",
+    "imdb": "nm1911103"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}

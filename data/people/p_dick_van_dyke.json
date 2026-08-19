@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dick_van_dyke",
+  "name": "Dick Van Dyke",
+  "external_ids": {
+    "wikidata": "Q310295",
+    "imdb": "nm0001813"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1925
+}

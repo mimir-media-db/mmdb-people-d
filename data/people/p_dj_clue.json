@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dj_clue",
+  "name": "DJ Clue",
+  "external_ids": {
+    "wikidata": "Q1152010",
+    "imdb": "nm0167308"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1975
+}

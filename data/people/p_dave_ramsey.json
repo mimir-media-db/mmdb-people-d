@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dave_ramsey",
+  "name": "Dave Ramsey",
+  "external_ids": {
+    "wikidata": "Q5229632",
+    "imdb": "nm1753046"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1960
+}

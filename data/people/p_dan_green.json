@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dan_green",
+  "name": "Dan Green",
+  "external_ids": {
+    "wikidata": "Q4119907",
+    "imdb": "nm0337751"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1970
+}

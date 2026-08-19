@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_david_petrarca",
+  "name": "David Petrarca",
+  "external_ids": {
+    "wikidata": "Q3703296",
+    "imdb": "nm0007008"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}
