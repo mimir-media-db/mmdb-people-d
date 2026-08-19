@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_davy_sardou",
+  "name": "Davy Sardou",
+  "external_ids": {
+    "wikidata": "Q3019212",
+    "imdb": "nm1745010"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}
