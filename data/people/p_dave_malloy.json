@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dave_malloy",
+  "name": "Dave Malloy",
+  "external_ids": {
+    "wikidata": "Q16935103",
+    "imdb": "nm8472319"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}

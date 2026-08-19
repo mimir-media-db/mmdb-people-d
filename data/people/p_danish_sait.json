@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_danish_sait",
+  "name": "Danish Sait",
+  "external_ids": {
+    "wikidata": "Q19662757",
+    "imdb": "nm8810169"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1988
+}
