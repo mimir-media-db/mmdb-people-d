@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_derren_brown",
+  "name": "Derren Brown",
+  "external_ids": {
+    "wikidata": "Q449048",
+    "imdb": "nm1494925"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1971
+}
