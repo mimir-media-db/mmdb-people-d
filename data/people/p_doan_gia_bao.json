@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_doan_gia_bao",
+  "name": "Doan Gia Bao",
+  "external_ids": {
+    "wikidata": "Q103070162",
+    "imdb": "nm8062335"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1970
+}

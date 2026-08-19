@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_didi_gnocchi",
+  "name": "Didi Gnocchi",
+  "external_ids": {
+    "wikidata": "Q18812019",
+    "imdb": "nm0323514"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1961
+}
