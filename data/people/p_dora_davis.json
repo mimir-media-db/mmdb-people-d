@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dora_davis",
+  "name": "Dora Davis",
+  "external_ids": {
+    "wikidata": "Q16492079",
+    "imdb": "nm0204507"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1906,
+  "death_year": 1980
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dave_free",
+  "name": "Dave Free",
+  "external_ids": {
+    "wikidata": "Q113624973",
+    "imdb": "nm7873890"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}

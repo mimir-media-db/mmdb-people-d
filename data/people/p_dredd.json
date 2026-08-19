@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dredd",
+  "name": "Dredd",
+  "external_ids": {
+    "wikidata": "Q115045164",
+    "imdb": "nm3464899"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1971
+}
