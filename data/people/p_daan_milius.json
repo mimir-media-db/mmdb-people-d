@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_daan_milius",
+  "name": "Daan Milius",
+  "external_ids": {
+    "wikidata": "Q52832622",
+    "imdb": "nm4210363"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}
