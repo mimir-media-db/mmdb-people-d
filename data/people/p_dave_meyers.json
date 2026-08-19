@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dave_meyers",
+  "name": "Dave Meyers",
+  "external_ids": {
+    "wikidata": "Q2525348",
+    "imdb": "nm0583515"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}

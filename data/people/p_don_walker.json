@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_don_walker",
+  "name": "Don Walker",
+  "external_ids": {
+    "wikidata": "Q5293669",
+    "imdb": "nm1240568"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1951
+}

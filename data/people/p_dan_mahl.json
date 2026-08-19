@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dan_mahl",
+  "name": "Dan Mähl",
+  "external_ids": {
+    "wikidata": "Q116268688",
+    "imdb": "nm0617398"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1970
+}

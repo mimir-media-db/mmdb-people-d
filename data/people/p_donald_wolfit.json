@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_donald_wolfit",
+  "name": "Donald Wolfit",
+  "external_ids": {
+    "wikidata": "Q530758",
+    "imdb": "nm0938372"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1902,
+  "death_year": 1968
+}
