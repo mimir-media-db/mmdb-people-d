@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_dirty_fred",
+  "name": "Dirty Fred",
+  "external_ids": {
+    "wikidata": "Q22292314",
+    "imdb": "nm8063997"
+  },
+  "last_updated": "2026-08-19"
+}

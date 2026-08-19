@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_david_burns",
+  "name": "David Burns",
+  "external_ids": {
+    "wikidata": "Q5231929",
+    "imdb": "nm0122634"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1902,
+  "death_year": 1971
+}

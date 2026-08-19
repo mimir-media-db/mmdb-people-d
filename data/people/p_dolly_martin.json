@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dolly_martin",
+  "name": "Dolly Martin",
+  "external_ids": {
+    "wikidata": "Q19943730",
+    "imdb": "nm2543862"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1961
+}

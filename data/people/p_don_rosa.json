@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_don_rosa",
+  "name": "Don Rosa",
+  "external_ids": {
+    "wikidata": "Q24184",
+    "imdb": "nm4040631"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1951
+}
