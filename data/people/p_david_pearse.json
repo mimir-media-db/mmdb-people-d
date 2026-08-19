@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_david_pearse",
+  "name": "David Pearse",
+  "external_ids": {
+    "wikidata": "Q20534220",
+    "imdb": "nm0669164"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1991
+}
