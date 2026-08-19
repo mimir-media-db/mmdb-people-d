@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_david_nixon",
+  "name": "David Nixon",
+  "external_ids": {
+    "wikidata": "Q5238049",
+    "imdb": "nm1117098"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1900
+}

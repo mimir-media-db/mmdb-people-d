@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_diana_prince",
+  "name": "Diana Prince",
+  "external_ids": {
+    "wikidata": "Q15149303",
+    "imdb": "nm2403367"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}

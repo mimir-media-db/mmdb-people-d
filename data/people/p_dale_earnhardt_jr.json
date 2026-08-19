@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dale_earnhardt_jr",
+  "name": "Dale Earnhardt Jr.",
+  "external_ids": {
+    "wikidata": "Q355388",
+    "imdb": "nm1060352"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1974
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_diana_princess_of_wales",
+  "name": "Diana, Princess of Wales",
+  "external_ids": {
+    "wikidata": "Q9685",
+    "imdb": "nm0697740"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1961,
+  "death_year": 1997
+}

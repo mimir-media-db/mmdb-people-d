@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_demo_tanaka",
+  "name": "Demo Tanaka",
+  "external_ids": {
+    "wikidata": "Q22250184",
+    "imdb": "nm1909771"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1971
+}
