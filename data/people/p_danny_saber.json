@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_danny_saber",
+  "name": "Danny Saber",
+  "external_ids": {
+    "wikidata": "Q3015306",
+    "imdb": "nm0754686"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1965
+}
