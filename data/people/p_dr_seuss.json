@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dr_seuss",
+  "name": "Dr. Seuss",
+  "external_ids": {
+    "wikidata": "Q298685",
+    "imdb": "nm0317450"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1904,
+  "death_year": 1991
+}
