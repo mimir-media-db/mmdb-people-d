@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_doug_wamble",
+  "name": "Doug Wamble",
+  "external_ids": {
+    "wikidata": "Q1251880",
+    "imdb": "nm2822258"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1972
+}
