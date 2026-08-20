@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "id": "p_daniel_tuma",
-  "name": "Daniel Tuma",
+  "name": "Daniel Tůma",
   "external_ids": {
-    "wikidata": "Q106146833",
-    "imdb": "nm13928039"
+    "wikidata": "Q104128417",
+    "imdb": "nm1325139"
   },
   "last_updated": "2026-08-20",
-  "birth_year": 1979
+  "birth_year": 1991
 }
