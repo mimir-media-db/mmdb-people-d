@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dave_brubeck",
+  "name": "Dave Brubeck",
+  "external_ids": {
+    "wikidata": "Q108597",
+    "imdb": "nm0115399"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1920,
+  "death_year": 2012
+}
