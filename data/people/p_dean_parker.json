@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dean_parker",
+  "name": "Dean Parker",
+  "external_ids": {
+    "wikidata": "Q5246400",
+    "imdb": "nm0662197"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1947,
+  "death_year": 2020
+}
