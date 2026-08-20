@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dave_sardy",
+  "name": "Dave Sardy",
+  "external_ids": {
+    "wikidata": "Q326604",
+    "imdb": "nm2867565"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1966
+}

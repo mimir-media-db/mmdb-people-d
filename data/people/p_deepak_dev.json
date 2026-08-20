@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_deepak_dev",
+  "name": "Deepak Dev",
+  "external_ids": {
+    "wikidata": "Q5250502",
+    "imdb": "nm1419961"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1974
+}

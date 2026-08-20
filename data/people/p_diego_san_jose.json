@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_diego_san_jose",
+  "name": "Diego San José",
+  "external_ids": {
+    "wikidata": "Q8559871",
+    "imdb": "nm1749125"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1978
+}
