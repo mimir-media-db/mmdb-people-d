@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_denis_johnson",
+  "name": "Denis Johnson",
+  "external_ids": {
+    "wikidata": "Q340016",
+    "imdb": "nm0424941"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1949,
+  "death_year": 2017
+}
