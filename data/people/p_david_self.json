@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_david_self",
+  "name": "David Self",
+  "external_ids": {
+    "wikidata": "Q3703332",
+    "imdb": "nm0783100"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1970
+}

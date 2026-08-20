@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dave_warner",
+  "name": "Dave Warner",
+  "external_ids": {
+    "wikidata": "Q5230070",
+    "imdb": "nm0912442"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1952
+}

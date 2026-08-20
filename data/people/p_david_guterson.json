@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_david_guterson",
+  "name": "David Guterson",
+  "external_ids": {
+    "wikidata": "Q1174627",
+    "imdb": "nm0349189"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1956
+}
