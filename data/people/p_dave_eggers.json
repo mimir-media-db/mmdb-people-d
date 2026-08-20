@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "id": "p_david_james",
-  "name": "David James",
+  "id": "p_dave_eggers",
+  "name": "Dave Eggers",
   "external_ids": {
-    "wikidata": "Q10598",
-    "imdb": "nm1668257"
+    "wikidata": "Q589497",
+    "imdb": "nm1101630"
   },
   "last_updated": "2026-08-20",
   "birth_year": 1970
