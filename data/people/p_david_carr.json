@@ -3,8 +3,10 @@
   "id": "p_david_carr",
   "name": "David Carr",
   "external_ids": {
-    "wikidata": "Q669059"
+    "wikidata": "Q3017629",
+    "imdb": "nm2551033"
   },
   "last_updated": "2026-08-20",
-  "birth_year": 1979
+  "birth_year": 1956,
+  "death_year": 2015
 }
