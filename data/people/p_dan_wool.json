@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dan_wool",
+  "name": "Dan Wool",
+  "external_ids": {
+    "wikidata": "Q5214615",
+    "imdb": "nm0004402"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1999
+}
