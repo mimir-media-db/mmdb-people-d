@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dudley_moore",
+  "name": "Dudley Moore",
+  "external_ids": {
+    "wikidata": "Q310343",
+    "imdb": "nm0001545"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1935,
+  "death_year": 2002
+}
