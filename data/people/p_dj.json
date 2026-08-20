@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "id": "p_dj",
-  "name": "DJキャレド",
+  "name": "DJクィック",
   "external_ids": {
-    "wikidata": "Q80805",
-    "imdb": "nm1722577"
+    "wikidata": "Q1154246",
+    "imdb": "nm0703558"
   },
-  "last_updated": "2026-08-19",
-  "birth_year": 1975
+  "last_updated": "2026-08-20",
+  "birth_year": 1970
 }
