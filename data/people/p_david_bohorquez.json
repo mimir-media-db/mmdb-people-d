@@ -1,10 +1,11 @@
 {
   "schema_version": 1,
   "id": "p_david_bohorquez",
-  "name": "David Bohorquez",
+  "name": "David Bohórquez",
   "external_ids": {
-    "wikidata": "Q114908289",
+    "wikidata": "Q64405142",
     "imdb": "nm1819805"
   },
-  "last_updated": "2026-08-20"
+  "last_updated": "2026-08-20",
+  "birth_year": 1990
 }
