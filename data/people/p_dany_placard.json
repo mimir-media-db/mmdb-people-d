@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dany_placard",
+  "name": "Dany Placard",
+  "external_ids": {
+    "wikidata": "Q24578967",
+    "imdb": "nm6919600"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1976
+}
