@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dave_porter",
+  "name": "Dave Porter",
+  "external_ids": {
+    "wikidata": "Q16734639",
+    "imdb": "nm1726663"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1949
+}

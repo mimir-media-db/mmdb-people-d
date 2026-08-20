@@ -1,10 +1,11 @@
 {
   "schema_version": 1,
   "id": "p_david_rubin",
-  "name": "David Rubin",
+  "name": "David Rubín",
   "external_ids": {
-    "wikidata": "Q22981047",
-    "imdb": "nm0748037"
+    "wikidata": "Q2005814",
+    "imdb": "nm2639006"
   },
-  "last_updated": "2026-08-20"
+  "last_updated": "2026-08-20",
+  "birth_year": 1977
 }
