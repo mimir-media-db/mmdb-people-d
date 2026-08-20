@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_desmond_sim",
+  "name": "Desmond Sim",
+  "external_ids": {
+    "wikidata": "Q17402984",
+    "imdb": "nm0799243"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1960
+}

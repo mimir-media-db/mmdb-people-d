@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dennis_potter",
+  "name": "Dennis Potter",
+  "external_ids": {
+    "wikidata": "Q1189442",
+    "imdb": "nm0693259"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1935,
+  "death_year": 1994
+}
