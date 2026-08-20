@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dana_idisis",
+  "name": "Dana Idisis",
+  "external_ids": {
+    "wikidata": "Q125453884",
+    "imdb": "nm9360569"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1985
+}
