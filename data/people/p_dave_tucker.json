@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dave_tucker",
+  "name": "Dave Tucker",
+  "external_ids": {
+    "wikidata": "Q18721963",
+    "imdb": "nm1971188"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1969
+}
