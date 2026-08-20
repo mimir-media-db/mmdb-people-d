@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dag_solstad",
+  "name": "Dag Solstad",
+  "external_ids": {
+    "wikidata": "Q469966",
+    "imdb": "nm0813580"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1941,
+  "death_year": 2025
+}
