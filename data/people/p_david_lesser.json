@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_david_lesser",
+  "name": "David Lesser",
+  "external_ids": {
+    "wikidata": "Q3018290",
+    "imdb": "nm4037190"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1976
+}
