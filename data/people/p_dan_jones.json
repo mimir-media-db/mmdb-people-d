@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dan_jones",
+  "name": "Dan Jones",
+  "external_ids": {
+    "wikidata": "Q5213767",
+    "imdb": "nm0427831"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1949
+}
