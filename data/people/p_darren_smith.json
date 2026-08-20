@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_darren_smith",
+  "name": "Darren Smith",
+  "external_ids": {
+    "wikidata": "Q5225154",
+    "imdb": "nm2534912"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1962
+}
