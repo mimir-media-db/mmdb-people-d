@@ -4144,7 +4144,7 @@
   {
     "id": "p_dan_reed",
     "name": "Dan Reed",
-    "birth_year": 1964,
+    "birth_year": 1963,
     "path": "data/people/p_dan_reed.json"
   },
   {
@@ -4372,6 +4372,12 @@
     "name": "Dan Wolman",
     "birth_year": 1941,
     "path": "data/people/p_dan_wolman.json"
+  },
+  {
+    "id": "p_dan_wool",
+    "name": "Dan Wool",
+    "birth_year": 1999,
+    "path": "data/people/p_dan_wool.json"
   },
   {
     "id": "p_dan_woren",
@@ -5238,6 +5244,12 @@
     "name": "Dani Pedrosa",
     "birth_year": 1985,
     "path": "data/people/p_dani_pedrosa.json"
+  },
+  {
+    "id": "p_dani_reichental",
+    "name": "Dani Reichental",
+    "birth_year": 1967,
+    "path": "data/people/p_dani_reichental.json"
   },
   {
     "id": "p_dani_romain",
@@ -6111,7 +6123,7 @@
   {
     "id": "p_daniel_cohen",
     "name": "Daniel Cohen",
-    "birth_year": 1953,
+    "birth_year": 1964,
     "path": "data/people/p_daniel_cohen.json"
   },
   {
@@ -8124,6 +8136,11 @@
     "path": "data/people/p_daniel_ostroff.json"
   },
   {
+    "id": "p_daniel_p_coughlin",
+    "name": "Daniel P. Coughlin",
+    "path": "data/people/p_daniel_p_coughlin.json"
+  },
+  {
     "id": "p_daniel_p_schenk",
     "name": "Daniel P. Schenk",
     "birth_year": 1983,
@@ -9222,7 +9239,7 @@
   {
     "id": "p_daniel_werner",
     "name": "Daniel Werner",
-    "birth_year": 1957,
+    "birth_year": 1983,
     "path": "data/people/p_daniel_werner.json"
   },
   {
@@ -11676,7 +11693,7 @@
   {
     "id": "p_danny_lerner",
     "name": "Danny Lerner",
-    "birth_year": 1973,
+    "birth_year": 1951,
     "path": "data/people/p_danny_lerner.json"
   },
   {
@@ -11758,6 +11775,7 @@
   {
     "id": "p_danny_mcbride",
     "name": "Danny McBride",
+    "birth_year": 1976,
     "path": "data/people/p_danny_mcbride.json"
   },
   {
@@ -13328,7 +13346,7 @@
   {
     "id": "p_dario_piana",
     "name": "Dario Piana",
-    "birth_year": 1953,
+    "birth_year": 1954,
     "path": "data/people/p_dario_piana.json"
   },
   {
@@ -15276,6 +15294,12 @@
     "path": "data/people/p_dave_grossman.json"
   },
   {
+    "id": "p_dave_grusin",
+    "name": "Dave Grusin",
+    "birth_year": 1934,
+    "path": "data/people/p_dave_grusin.json"
+  },
+  {
     "id": "p_dave_hager",
     "name": "Dave Hager",
     "birth_year": 1944,
@@ -15564,7 +15588,7 @@
   {
     "id": "p_dave_schultz",
     "name": "Dave Schultz",
-    "birth_year": 1962,
+    "birth_year": 1959,
     "path": "data/people/p_dave_schultz.json"
   },
   {
@@ -16819,6 +16843,12 @@
     "path": "data/people/p_david_brock.json"
   },
   {
+    "id": "p_david_bromberg",
+    "name": "David Bromberg",
+    "birth_year": 1945,
+    "path": "data/people/p_david_bromberg.json"
+  },
+  {
     "id": "p_david_bromley",
     "name": "David Bromley",
     "path": "data/people/p_david_bromley.json"
@@ -16842,8 +16872,8 @@
   },
   {
     "id": "p_david_bruckner",
-    "name": "David Brückner",
-    "birth_year": 1988,
+    "name": "David Bruckner",
+    "birth_year": 1976,
     "path": "data/people/p_david_bruckner.json"
   },
   {
@@ -17410,6 +17440,12 @@
     "name": "David Crellin",
     "birth_year": 1961,
     "path": "data/people/p_david_crellin.json"
+  },
+  {
+    "id": "p_david_crespo",
+    "name": "David Crespo",
+    "birth_year": 1972,
+    "path": "data/people/p_david_crespo.json"
   },
   {
     "id": "p_david_cronenberg",
@@ -18039,6 +18075,12 @@
     "path": "data/people/p_david_feige.json"
   },
   {
+    "id": "p_david_feiss",
+    "name": "David Feiss",
+    "birth_year": 1959,
+    "path": "data/people/p_david_feiss.json"
+  },
+  {
     "id": "p_david_felani",
     "name": "David Felani",
     "path": "data/people/p_david_felani.json"
@@ -18378,6 +18420,12 @@
     "name": "David Gere",
     "birth_year": 1975,
     "path": "data/people/p_david_gere.json"
+  },
+  {
+    "id": "p_david_gerrold",
+    "name": "David Gerrold",
+    "birth_year": 1944,
+    "path": "data/people/p_david_gerrold.json"
   },
   {
     "id": "p_david_geselson",
@@ -19234,6 +19282,12 @@
     "path": "data/people/p_david_istok.json"
   },
   {
+    "id": "p_david_itkin",
+    "name": "David Itkin",
+    "birth_year": 1957,
+    "path": "data/people/p_david_itkin.json"
+  },
+  {
     "id": "p_david_ivanov",
     "name": "David Ivanov",
     "path": "data/people/p_david_ivanov.json"
@@ -19448,7 +19502,6 @@
   {
     "id": "p_david_kaplan",
     "name": "David Kaplan",
-    "birth_year": 1946,
     "path": "data/people/p_david_kaplan.json"
   },
   {
@@ -20026,7 +20079,6 @@
   {
     "id": "p_david_lewis",
     "name": "David Lewis",
-    "birth_year": 1976,
     "path": "data/people/p_david_lewis.json"
   },
   {
@@ -20142,6 +20194,11 @@
     "name": "David Logan",
     "birth_year": 1982,
     "path": "data/people/p_david_logan.json"
+  },
+  {
+    "id": "p_david_long",
+    "name": "David Long",
+    "path": "data/people/p_david_long.json"
   },
   {
     "id": "p_david_lopez",
@@ -21488,6 +21545,12 @@
     "path": "data/people/p_david_petrzelka.json"
   },
   {
+    "id": "p_david_pharao",
+    "name": "David Pharao",
+    "birth_year": 1958,
+    "path": "data/people/p_david_pharao.json"
+  },
+  {
     "id": "p_david_phillips",
     "name": "David Phillips",
     "birth_year": 1978,
@@ -21705,6 +21768,11 @@
     "id": "p_david_r_williams",
     "name": "David R. Williams",
     "path": "data/people/p_david_r_williams.json"
+  },
+  {
+    "id": "p_david_raiklen",
+    "name": "David Raiklen",
+    "path": "data/people/p_david_raiklen.json"
   },
   {
     "id": "p_david_raksin",
@@ -24155,6 +24223,12 @@
     "path": "data/people/p_dawn_gifford_engle.json"
   },
   {
+    "id": "p_dawn_landes",
+    "name": "Dawn Landes",
+    "birth_year": 1980,
+    "path": "data/people/p_dawn_landes.json"
+  },
+  {
     "id": "p_dawn_linneman",
     "name": "Dawn Linneman",
     "path": "data/people/p_dawn_linneman.json"
@@ -24811,6 +24885,12 @@
     "name": "Dean Parisot",
     "birth_year": 1952,
     "path": "data/people/p_dean_parisot.json"
+  },
+  {
+    "id": "p_dean_parker",
+    "name": "Dean Parker",
+    "birth_year": 1947,
+    "path": "data/people/p_dean_parker.json"
   },
   {
     "id": "p_dean_phoenix",
@@ -29557,7 +29637,7 @@
   {
     "id": "p_dennis_scott",
     "name": "Dennis Scott",
-    "birth_year": 1969,
+    "birth_year": 1968,
     "path": "data/people/p_dennis_scott.json"
   },
   {
@@ -29958,7 +30038,7 @@
   {
     "id": "p_deray_davis",
     "name": "DeRay Davis",
-    "birth_year": 1982,
+    "birth_year": 1967,
     "path": "data/people/p_deray_davis.json"
   },
   {
@@ -31037,6 +31117,12 @@
     "path": "data/people/p_detlef_kapplusch.json"
   },
   {
+    "id": "p_detlef_michel",
+    "name": "Detlef Michel",
+    "birth_year": 1944,
+    "path": "data/people/p_detlef_michel.json"
+  },
+  {
     "id": "p_detlef_petersen",
     "name": "Detlef Petersen",
     "birth_year": 1950,
@@ -31617,6 +31703,12 @@
     "path": "data/people/p_devon_windsor.json"
   },
   {
+    "id": "p_devor_de_pascalis",
+    "name": "Devor De Pascalis",
+    "birth_year": 1975,
+    "path": "data/people/p_devor_de_pascalis.json"
+  },
+  {
     "id": "p_devorah_baum",
     "name": "Devorah Baum",
     "path": "data/people/p_devorah_baum.json"
@@ -32067,7 +32159,7 @@
   {
     "id": "p_dharmavarapu_subramanyam",
     "name": "Dharmavarapu Subramanyam",
-    "birth_year": 1960,
+    "birth_year": 1954,
     "path": "data/people/p_dharmavarapu_subramanyam.json"
   },
   {
@@ -32469,6 +32561,12 @@
     "name": "Dian Dipa Chandra",
     "birth_year": 1974,
     "path": "data/people/p_dian_dipa_chandra.json"
+  },
+  {
+    "id": "p_dian_hp",
+    "name": "Dian HP",
+    "birth_year": 1965,
+    "path": "data/people/p_dian_hp.json"
   },
   {
     "id": "p_dian_lee",
@@ -37171,6 +37269,12 @@
     "path": "data/people/p_dipak_mandal.json"
   },
   {
+    "id": "p_dipak_sarma",
+    "name": "Dipak Sarma",
+    "birth_year": 1968,
+    "path": "data/people/p_dipak_sarma.json"
+  },
+  {
     "id": "p_dipankar_dipon",
     "name": "Dipankar Dipon",
     "birth_year": 1976,
@@ -38903,6 +39007,12 @@
     "path": "data/people/p_dmitry_miron.json"
   },
   {
+    "id": "p_dmitry_miropolsky",
+    "name": "Dmitry Miropolsky",
+    "birth_year": 1964,
+    "path": "data/people/p_dmitry_miropolsky.json"
+  },
+  {
     "id": "p_dmitry_mulyar",
     "name": "Dmitry Mulyar",
     "birth_year": 1972,
@@ -40586,6 +40696,12 @@
     "name": "Dominik Kuhn",
     "birth_year": 1969,
     "path": "data/people/p_dominik_kuhn.json"
+  },
+  {
+    "id": "p_dominik_kwasniewski",
+    "name": "Dominik Kwaśniewski",
+    "birth_year": 1976,
+    "path": "data/people/p_dominik_kwasniewski.json"
   },
   {
     "id": "p_dominik_landsman",
@@ -42448,6 +42564,12 @@
     "path": "data/people/p_donald_goldmacher.json"
   },
   {
+    "id": "p_donald_hayes",
+    "name": "Donald Hayes",
+    "birth_year": 1975,
+    "path": "data/people/p_donald_hayes.json"
+  },
+  {
     "id": "p_donald_hogberg",
     "name": "Donald Högberg",
     "birth_year": 1952,
@@ -42895,6 +43017,12 @@
     "name": "Donita",
     "birth_year": 1989,
     "path": "data/people/p_donita.json"
+  },
+  {
+    "id": "p_doniyor_agzamov",
+    "name": "Doniyor Agzamov",
+    "birth_year": 1981,
+    "path": "data/people/p_doniyor_agzamov.json"
   },
   {
     "id": "p_donn_cambern",
@@ -44457,7 +44585,7 @@
   {
     "id": "p_doug_benson",
     "name": "Doug Benson",
-    "birth_year": 1962,
+    "birth_year": 1964,
     "path": "data/people/p_doug_benson.json"
   },
   {
@@ -45053,6 +45181,12 @@
     "path": "data/people/p_douglas_milsome.json"
   },
   {
+    "id": "p_douglas_pipes",
+    "name": "Douglas Pipes",
+    "birth_year": 1962,
+    "path": "data/people/p_douglas_pipes.json"
+  },
+  {
     "id": "p_douglas_rae",
     "name": "Douglas Rae",
     "birth_year": 1947,
@@ -45424,6 +45558,12 @@
     "name": "Dr. Rajkumar",
     "birth_year": 1929,
     "path": "data/people/p_dr_rajkumar.json"
+  },
+  {
+    "id": "p_dr_shiva",
+    "name": "Dr. Shiva",
+    "birth_year": 1900,
+    "path": "data/people/p_dr_shiva.json"
   },
   {
     "id": "p_dr_sid",
