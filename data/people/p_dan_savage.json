@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_dan_savage",
+  "name": "Dan Savage",
+  "external_ids": {
+    "wikidata": "Q649667",
+    "imdb": "nm0767280"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1964
+}

@@ -3,7 +3,9 @@
   "id": "p_david_cameron",
   "name": "David Cameron",
   "external_ids": {
-    "wikidata": "Q65115378"
+    "wikidata": "Q192",
+    "imdb": "nm2090098"
   },
-  "last_updated": "2026-08-20"
+  "last_updated": "2026-08-20",
+  "birth_year": 1966
 }
