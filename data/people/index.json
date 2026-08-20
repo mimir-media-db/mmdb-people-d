@@ -975,6 +975,7 @@
   {
     "id": "p_dai_wei",
     "name": "Dai Wei",
+    "birth_year": 1990,
     "path": "data/people/p_dai_wei.json"
   },
   {
@@ -1286,7 +1287,7 @@
   {
     "id": "p_daisuke_miura",
     "name": "Daisuke Miura",
-    "birth_year": 1975,
+    "birth_year": 1973,
     "path": "data/people/p_daisuke_miura.json"
   },
   {
@@ -1394,7 +1395,7 @@
   {
     "id": "p_daisuke_watanabe",
     "name": "Daisuke Watanabe",
-    "birth_year": 1981,
+    "birth_year": 1974,
     "path": "data/people/p_daisuke_watanabe.json"
   },
   {
@@ -7877,7 +7878,7 @@
   {
     "id": "p_daniel_lusko",
     "name": "Daniel Lusko",
-    "birth_year": 1982,
+    "birth_year": 1983,
     "path": "data/people/p_daniel_lusko.json"
   },
   {
@@ -9250,8 +9251,8 @@
   },
   {
     "id": "p_daniel_tuma",
-    "name": "Daniel Tuma",
-    "birth_year": 1979,
+    "name": "Daniel Tůma",
+    "birth_year": 1991,
     "path": "data/people/p_daniel_tuma.json"
   },
   {
@@ -9320,7 +9321,7 @@
   {
     "id": "p_daniel_veronese",
     "name": "Daniel Veronese",
-    "birth_year": 1954,
+    "birth_year": 1955,
     "path": "data/people/p_daniel_veronese.json"
   },
   {
@@ -12086,7 +12087,7 @@
   {
     "id": "p_danny_murphy",
     "name": "Danny Murphy",
-    "birth_year": 1955,
+    "birth_year": 1977,
     "path": "data/people/p_danny_murphy.json"
   },
   {
@@ -14718,7 +14719,7 @@
   {
     "id": "p_darshan_jariwala",
     "name": "Darshan Jariwala",
-    "birth_year": 1957,
+    "birth_year": 1958,
     "path": "data/people/p_darshan_jariwala.json"
   },
   {
@@ -17230,8 +17231,8 @@
   },
   {
     "id": "p_david_bruckner",
-    "name": "David Bruckner",
-    "birth_year": 1976,
+    "name": "David Brückner",
+    "birth_year": 1988,
     "path": "data/people/p_david_bruckner.json"
   },
   {
@@ -18308,6 +18309,7 @@
   {
     "id": "p_david_elliott",
     "name": "David Elliott",
+    "birth_year": 1981,
     "path": "data/people/p_david_elliott.json"
   },
   {
@@ -19543,7 +19545,7 @@
   {
     "id": "p_david_holmes",
     "name": "David Holmes",
-    "birth_year": 1980,
+    "birth_year": 1969,
     "path": "data/people/p_david_holmes.json"
   },
   {
@@ -19923,6 +19925,7 @@
   {
     "id": "p_david_kaplan",
     "name": "David Kaplan",
+    "birth_year": 1946,
     "path": "data/people/p_david_kaplan.json"
   },
   {
@@ -20297,12 +20300,13 @@
   {
     "id": "p_david_lam",
     "name": "David Lam",
+    "birth_year": 1953,
     "path": "data/people/p_david_lam.json"
   },
   {
     "id": "p_david_lambert",
     "name": "David Lambert",
-    "birth_year": 1993,
+    "birth_year": 1974,
     "path": "data/people/p_david_lambert.json"
   },
   {
@@ -22251,6 +22255,7 @@
   {
     "id": "p_david_ramsey",
     "name": "David Ramsey",
+    "birth_year": 1971,
     "path": "data/people/p_david_ramsey.json"
   },
   {
@@ -27428,7 +27433,7 @@
   {
     "id": "p_deirdre_oconnell",
     "name": "Deirdre O'Connell",
-    "birth_year": 1953,
+    "birth_year": 1950,
     "path": "data/people/p_deirdre_oconnell.json"
   },
   {
@@ -31127,7 +31132,7 @@
   {
     "id": "p_derick_martini",
     "name": "Derick Martini",
-    "birth_year": 1975,
+    "birth_year": 1972,
     "path": "data/people/p_derick_martini.json"
   },
   {
@@ -43010,7 +43015,7 @@
   {
     "id": "p_don_murphy",
     "name": "Don Murphy",
-    "birth_year": 1967,
+    "birth_year": 1961,
     "path": "data/people/p_don_murphy.json"
   },
   {
@@ -46234,7 +46239,7 @@
   {
     "id": "p_douglas_wood",
     "name": "Douglas Wood",
-    "birth_year": 1900,
+    "birth_year": 1880,
     "path": "data/people/p_douglas_wood.json"
   },
   {
