@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dmitri_shostakovich",
+  "name": "Dmitri Shostakovich",
+  "external_ids": {
+    "wikidata": "Q80135",
+    "imdb": "nm0006291"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1906,
+  "death_year": 1975
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_dashiell_hammett",
+  "name": "Dashiell Hammett",
+  "external_ids": {
+    "wikidata": "Q186335",
+    "imdb": "nm0358591"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1894,
+  "death_year": 1961
+}
