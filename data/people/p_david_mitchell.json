@@ -3,8 +3,9 @@
   "id": "p_david_mitchell",
   "name": "David Mitchell",
   "external_ids": {
-    "wikidata": "Q64172378",
-    "imdb": "nm0593262"
+    "wikidata": "Q40479",
+    "imdb": "nm3290967"
   },
-  "last_updated": "2026-08-20"
+  "last_updated": "2026-08-20",
+  "birth_year": 1969
 }
