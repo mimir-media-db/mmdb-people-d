@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "id": "p_david_bruckner",
-  "name": "David Bruckner",
+  "name": "David Brückner",
   "external_ids": {
-    "wikidata": "Q17513204",
-    "imdb": "nm1410159"
+    "wikidata": "Q1173856",
+    "imdb": "nm4103556"
   },
-  "last_updated": "2026-08-19",
-  "birth_year": 1976
+  "last_updated": "2026-08-20",
+  "birth_year": 1988
 }
