@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_danny_king",
+  "name": "Danny King",
+  "external_ids": {
+    "wikidata": "Q5220521",
+    "imdb": "nm0454617"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1969
+}
